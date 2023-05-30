@@ -99,7 +99,7 @@ var firebaseConfig = {
       // DOne
       alert('User Logged In!!')
 
-      window.location.href = "main.html";
+      window.location.href = "https://skillsyncplus.github.io/SkillSync/Dashboard/index.html";
   
     })
     .catch(function(error) {
