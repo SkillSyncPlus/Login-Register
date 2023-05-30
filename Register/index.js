@@ -56,7 +56,7 @@ var firebaseConfig = {
       // DOne
       alert('User Created!!')
 
-      window.location.href = "main.html";
+      window.location.href = "https://skillsyncplus.github.io/SkillSync/Dashboard/index.html";
     })
     .catch(function(error) {
       // Firebase will use this to alert of its errors
